@@ -10,7 +10,7 @@
 
 ### I'm not much of a social media guy but you can find me on:
 
-[<img align="left" alt="marco_pspspsps| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="marco_pspspsps| Instagram" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 
 <br />
 
